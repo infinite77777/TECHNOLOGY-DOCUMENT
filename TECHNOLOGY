@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="style.css">
+<html>
+<head>
+    <style>
+        .container {
+            overflow: scroll;
+            height: 200px; / *set a fixed height for the container* /
+        }
+    </style>
+</head>
+<body>
+ <style> body {
+  background-color: #333333; / *replace with your desired color* /
+}
+   
+h1 {
+  color: blue;
+  font-size: 40px;
+  font-family: Papyrus;
+}
+
+p {
+  color: #ae00ff;
+  font-size: 20px;
+  font-family:'Courier New', monospace;
+}
+   </style>
+ <style>
+  #favorite-subjects {
+    font-size: 47px;
+    font-family: 'Monaco',monospace;
+    color: #ffffff;
+  }
+</style>
+
+<h2 id="favorite-subjects">What I have learned in my favorite subjects:</h2>
+    </style>
+  
+  <h1>1-Hardware</h1>
+  <p>to make a pc there are alot of things that have to be bought.First the case and the monitor.The the motherboard and the cpu.Then the keyboard and mouse and lastly the graphics card,memory and the ram.The easiest way i recommend to do this is to order them from amazon of of the most trustable website in history!But before anything i had to learn how to know wheather that component is worth the money and if it is actually good or not.If i saw that the certain component is good but not accuratly sure , i can see the ratings and if its still not enough i can see the comments.And with certain components you can get a refund if it has not passed the deadline (most of them only have refunds with a 15 day deadline)
+</p>
+<style>
+    .image-container {
+      background-image: url("wp8534877-hardware-4k-wallpapers.jpg");
+      background-size: cover;
+      width:  300px;
+      height: 200px;
+    }
+  </style>
+  <div class="image-container"></div>
+</body>
+</html>
+
+<h1>2-Multimedia</h1>
+<p>It was the most fun subject because it is all about how to describe and display audio,colour and bits on the screen/monitor.I learned that colour is displayed on the computer by the hexadecimal which is not a coding language but it is used in html and css to identify a certain colour for example #ffffff is white and #000000 is black. so you can realize that the hexadecimal is working with the rgb method because the first 2 letters = intensity of red and second pair = green and the last 2 pairs = blue . so each of the colours/pairs are mixed to form a certain colour.But multimedia is not all about colours.its about adio too.audio/sound works with waves.That is how it looks when is sampled too but instead they sometime look like mountains and each line presents a certain pitch and altitude.Second thing is to make sure the quality of the audio is good then check how much bits are sampled in a secon,the more the better.There isnt much to be said in the audio/sound so now we are going to talk about the videos and ofcourse something everyone knows that videos are made from thousands of pictures that keep coming to create a sequence and make that video so now that we have multiple pictures that means we have 2 things for the quality of a video. 1- the quality of the videos and 2- the speed of showing the pictures . so the first one is measured in pixles and the second one is measured in fps and in both the more the better.</p>
+<style>
+    .image-container2 {
+      background-image: url("wallpaperflare.com_wallpaper.jpg");
+      background-size: cover;
+      width:  300px;
+      height: 200px;
+    }
+  </style>
+  <div class="image-container2"></div>
+</body>
+</html>
+
+<h1>3-Artificial Inteligence</h1>
+<p>Artificial intelegence is literally 90% fun its like doing something with a superhum but the table twist is he is not human.It is programmed.Well you can agree that it is programed but have you ever thought of how it is that smart?Well ofcorse its not trained by code because thats impossible.then it is trained by billions and billions of posibilites according on its job for example and ai chat or an ai chess bot that can beat you in the matter of 3 moves.Thats all there is to be said about Ai.</p>
+
+<style>
+    .image-container3 {
+      background-image: url("wallpaperflare.com_wallpaper (1).jpg");
+      background-size: cover;
+      width:  300px;
+      height: 200px;
+    }
+  </style>
+  <div class="image-container3"></div>
+</body>
+</html>
